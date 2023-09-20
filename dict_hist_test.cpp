@@ -19,7 +19,7 @@ using std::pair;
 #include <dict_hist.hpp>
 
 #define ERROR_STYLE "\033[1;31m" // bold and red
-#define LB_STYLE "\033[36m"      // light blue
+#define LB_STYLE "\033[3;36m"      // lichtblau style
 #define NSTYLE "\033[0m"
 
 int main(int argc, char **argv)
