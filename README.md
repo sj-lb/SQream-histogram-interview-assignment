@@ -8,13 +8,20 @@ the test provided here checks the time it took the code to run and prints the hi
 
 # Instructions
 to compile the basic histogram test:
+
 `$ make hist`
+
 to run the basic histogram test:
+
 `$ ./hist <path/to/dictionary>`
 
+
 to compile the multithreaded histogram test:
+
 `make mt_hist`
+
 to run the simple histogram test:
+
 `$ ./mt_hist <path/to/dictionary>`
 
 # Notes
