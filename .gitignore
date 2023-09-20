@@ -12,3 +12,6 @@
 
 # whitelist makefiles
 ![Mm]akefile
+
+# whitelist .md files
+!*.md
