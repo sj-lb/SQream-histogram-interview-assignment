@@ -1,8 +1,9 @@
 # SQream interview histogram assignment
 this code processes a text file and produces a histogram of the letters within.
 the assignment had two stages:
-1. basic code that produces the histogram
-2. multithreaded code that produces the histogram using 10 threads
+1. basic code that produces the histogram.
+2. multithreaded code that produces the histogram using 10 threads.
+
 the test provided here checks the time it took the code to run and prints the histogram.
 
 # Instructions
