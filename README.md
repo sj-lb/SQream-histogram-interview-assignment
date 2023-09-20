@@ -1,5 +1,4 @@
-# the project's makefile is simplistic and assumes all files are saved
-# in the same directory.
+# the project's makefile is simplistic and assumes all files are saved in the same directory.
 
 # to compile the first assignment:
 `$ make hist`
