@@ -1,0 +1,14 @@
+# ignore all files
+*
+
+# whitelist subdirectories
+!**/
+
+# whitelist gitignore files
+!.gitignore
+
+# whitelist cpp files
+!*.[ch]pp
+
+# whitelist makefiles
+![Mm]akefile
